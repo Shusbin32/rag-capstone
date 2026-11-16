@@ -1,0 +1,15 @@
+gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Virtual environments
+.venv/
+venv/ 
+# Secrets: never commit these
+.env
+# Editors, notebooks and system files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
